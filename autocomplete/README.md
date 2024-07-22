@@ -21,7 +21,7 @@
 
 1. clone the project ` git clone https://github.com/Groot-2001/Frontend_Interview_Questions.git`
 2. change directory to autocomplete `cd autocomplete `
-3. install All dependencies `npm install `
+3. install All the dependencies `npm install `
 4. run the file using `npm run dev`
 
 # Problems Faced During the Project Development:
